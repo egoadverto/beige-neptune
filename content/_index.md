@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Inopportu.no
-    subtitle: Blog personale di un giovane quarantenne disagiato
+    subtitle: Raccolta di pensieri per niente "politically correct".
     content: |
       Raccolta di pensieri per niente "politically correct".
     actions: []
