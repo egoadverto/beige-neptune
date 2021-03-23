@@ -4,8 +4,13 @@ sections:
   - type: hero_section
     title: Inopportu.no
     subtitle: Raccolta di pensieri per niente "politically correct".
-    content: |
-      Raccolta di pensieri per niente "politically correct".
+    content: >
+      Blog personale di un giovane quarantenne disagiato.
+
+
+      Ogni pensiero o idea riportata in questo blog è frutto della mia personale
+      opinione, se non sei d'accoro con ciò che scrivo sei pregato di non
+      continuare e di non commentare in modo offensivo.
     actions: []
     image: images/hero.png
     image_alt: Hero section placeholder image
