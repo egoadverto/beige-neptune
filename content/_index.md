@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Inopportu.no
-    subtitle: Optional hero section subtitle
+    subtitle: Blog personale di un giovane quarantenne disagiato
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
