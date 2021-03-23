@@ -46,10 +46,6 @@ params:
         url: /episodes
         style: link
       - type: action
-        label: Subscribe
-        url: /subscribe
-        style: link
-      - type: action
         label: Advertising
         url: /advertising
         style: link
