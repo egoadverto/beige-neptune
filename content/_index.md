@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Inopportu.no
     subtitle: Blog personale di un giovane quarantenne disagiato
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: |
+      Raccolta di pensieri per niente "politically correct".
     actions: []
     image: images/hero.png
     image_alt: Hero section placeholder image
