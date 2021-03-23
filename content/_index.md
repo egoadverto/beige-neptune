@@ -26,7 +26,7 @@ sections:
     background_image_size: cover
     background_image_repeat: no-repeat
   - type: blog_feed_section
-    title: Latest Episodes
+    title: Ultimi post
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
